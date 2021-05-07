@@ -1,6 +1,6 @@
 #ifndef BLEDEVICE_H
 #define BLEDEVICE_H
-
+//xd
 #include <QObject>
 #include <QBluetoothDeviceDiscoveryAgent>
 #include <QBluetoothDeviceInfo>
